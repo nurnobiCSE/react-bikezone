@@ -13,7 +13,7 @@ function Slider() {
                         </div>
                     </div>
                 </div>
-                <img src="/image/slider/slider1.png" className="w-auto mx-auto" />
+                <img src="image/slider/slider1.png" className="w-auto mx-auto" />
                 <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
                     <a href="#slide4" className="btn btn-circle">❮</a>
                     <a href="#slide2" className="btn btn-circle">❯</a>
@@ -32,7 +32,7 @@ function Slider() {
                         </div>
                     </div>
                 </div>
-                <img src="/image/slider/slider2.png" className="w-auto mx-auto" />
+                <img src="image/slider/slider2.png" className="w-auto mx-auto" />
                 <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
                     <a href="#slide1" className="btn btn-circle">❮</a>
                     <a href="#slide3" className="btn btn-circle">❯</a>
@@ -50,7 +50,7 @@ function Slider() {
                         </div>
                     </div>
                 </div>
-                <img src="/image/slider/slider3.png" className="w-auto mx-auto" />
+                <img src="image/slider/slider3.png" className="w-auto mx-auto" />
                 <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
                     <a href="#slide2" className="btn btn-circle">❮</a>
                     <a href="#slide4" className="btn btn-circle">❯</a>
@@ -68,7 +68,7 @@ function Slider() {
                         </div>
                     </div>
                 </div>
-                <img src="/image/slider/slider4.png" className="w-auto mx-auto" />
+                <img src="image/slider/slider4.png" className="w-auto mx-auto" />
                 <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
                     <a href="#slide3" className="btn btn-circle">❮</a>
                     <a href="#slide1" className="btn btn-circle">❯</a>
