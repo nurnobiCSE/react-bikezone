@@ -2,7 +2,7 @@ export default function LatestNews() {
     return (
         <div className="p-5">
             <center className="font-semibold text-5xl text-[#0A0826] capitalize">latest News</center>
-            <div className="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+            <div className="mx-auto mt-10 items-center grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             <div className="card w-auto glass pt-5">
                 <figure><img src="image/news/1.png" alt="car!" /></figure>
                 <div className="card-body mt-10">

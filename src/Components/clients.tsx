@@ -5,7 +5,7 @@ export default function ClientsPart() {
                 <h1 className="font-semibold text-5xl text-[#0A0826]">Happy <span className="text-[#E76F51]">Clients says</span></h1>
             </center>
 
-            <div className="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+            <div className="mx-auto mt-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
 
                 <div className="card shadow-xl border">
                     <figure className="px-10 pt-10">

@@ -1,6 +1,6 @@
 function NavBar() {
     return (
-        <div className="bg-black w-full">
+        <div className="bg-black md:w-full w-auto">
             <div className="navbar bg-teal-950">
             <div className="navbar-start">
                 <div className="dropdown">
@@ -14,7 +14,7 @@ function NavBar() {
                         <li><a className="hover:text-yellow-600">Contact</a></li>
                     </ul>
                 </div>
-                <a className="btn btn-ghost normal-case text-xl text-white">BikeZone</a>
+                <a className="btn btn-ghost normal-case md:text-xl text-white">BikeZone</a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1 text-white">
@@ -25,7 +25,7 @@ function NavBar() {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="btn bg-[#E76F51] px-6 text-white border-none rounded-md text-base hover:text-teal-950">Login</a>
+                <a className=" bg-[#E76F51] py-1 md:py-2 cursor-pointer px-3 md:px-6 text-white border-none rounded-md text-base hover:text-teal-950">Login</a>
             </div>
         </div>
         </div>

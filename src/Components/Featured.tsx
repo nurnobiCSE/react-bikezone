@@ -7,7 +7,8 @@ export default function Featured() {
           </h2>
           <span className="mt-4 flex items-center text-center  text-[#E76F51] text-sm  justify-center">Best bike collection</span>
           <div className="w-16 h-1 bg-red-500 mx-auto"></div> <br />
-          <div className="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+          
+          <div className="mx-auto mt-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             <img
               className="col-span-2 max-h-60 w-full object-contain lg:col-span-1"
               src="image/featured/f1.png"

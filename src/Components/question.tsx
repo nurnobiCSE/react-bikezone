@@ -4,8 +4,8 @@ export default function QuestoinPart() {
             <center>
                 <h1 className="font-semibold text-5xl text-[#0A0826]">Frequently Asked <span className="text-[#E76F51]">Questions</span></h1>
             </center>
-            <div className="mt-16 flex flex-row justify-center mx-auto gap-4">
-                <img className="w-1/2" src="image/question/Frame.png" alt="" />
+            <div className="mt-16 flex flex-col md:flex-row justify-center mx-auto gap-4">
+                <img className="md:w-1/2" src="image/question/Frame.png" alt="" />
                 <div className="">
                     <div className="join join-vertical w-full gap-14">
                         <div className="collapse collapse-arrow join-item border border-base-300">
